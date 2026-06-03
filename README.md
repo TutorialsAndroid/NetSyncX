@@ -25,8 +25,6 @@ Built for modern Android apps that need reliable network-aware behavior without 
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/TutorialsAndroid/NetSyncX/main/assets/netsyncx-banner.png" alt="NetSyncX Banner" width="100%" />
-
 </div>
 
 ---
