@@ -21,7 +21,7 @@ Built for modern Android apps that need reliable network-aware behavior without 
 </a>
 <img src="https://img.shields.io/badge/Java-Compatible-F97316?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Compatible" />
 <img src="https://img.shields.io/badge/Kotlin-Compatible-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Compatible" />
-<img src="https://img.shields.io/badge/Android-minSdk%2023-22C55E?style=for-the-badge&logo=android&logoColor=white" alt="Android minSdk 23" />
+<img src="https://img.shields.io/badge/Android-minSdk%2024-22C55E?style=for-the-badge&logo=android&logoColor=white" alt="Android minSdk 24" />
 
 <br/><br/>
 
