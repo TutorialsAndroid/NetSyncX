@@ -753,17 +753,9 @@ Retry configuration for `NetSyncRetryQueue`.
 
 ## Screenshots
 
-Add your screenshots inside:
-
-```text
-assets/screenshots/
-```
-
-Then update this section:
-
-| Online State                                            | Offline State                                            | Retry Queue                                                  |
-| ------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="assets/screenshots/online.png" width="250" /> | <img src="assets/screenshots/offline.png" width="250" /> | <img src="assets/screenshots/retry-queue.png" width="250" /> |
+| Online State                                                                            
+| ------------------------------------------------------- | 
+ <img src="art/Screenshot_1780490663.png" width="250" /> 
 
 ---
 
