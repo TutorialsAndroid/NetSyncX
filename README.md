@@ -13,12 +13,6 @@ Built for modern Android apps that need reliable network-aware behavior without 
 <a href="https://central.sonatype.com/artifact/io.github.tutorialsandroid/netsyncx" target="_blank">
   <img src="https://img.shields.io/maven-central/v/io.github.tutorialsandroid/netsyncx?style=for-the-badge&label=Maven%20Central&color=2563EB" alt="Maven Central" />
 </a>
-<a href="https://github.com/TutorialsAndroid/NetSyncX" target="_blank">
-  <img src="https://img.shields.io/github/stars/TutorialsAndroid/NetSyncX?style=for-the-badge&logo=github" alt="GitHub Stars" />
-</a>
-<a href="https://github.com/TutorialsAndroid/NetSyncX/blob/main/LICENSE" target="_blank">
-  <img src="https://img.shields.io/github/license/TutorialsAndroid/NetSyncX?style=for-the-badge" alt="License" />
-</a>
 <img src="https://img.shields.io/badge/Java-Compatible-F97316?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Compatible" />
 <img src="https://img.shields.io/badge/Kotlin-Compatible-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Compatible" />
 <img src="https://img.shields.io/badge/Android-minSdk%2024-22C55E?style=for-the-badge&logo=android&logoColor=white" alt="Android minSdk 24" />
